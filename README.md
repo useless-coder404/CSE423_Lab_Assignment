@@ -1,1 +1,3 @@
-# CSE423_Lab_Assignment
+# BRACU
+# CSE423 Computer Graphics
+# Lab Assignment
